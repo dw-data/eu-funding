@@ -14,7 +14,7 @@ For this analysis, we used the [publicly available data](○%09https:/cohesionda
 
 `erdf_analysis_data.RData` Final R workspace objects for analysis.
 
-`data/eu/...` Datasets (see below).
+`data/...` Datasets (see below).
 
 ## Datasets
 
@@ -38,6 +38,10 @@ The total amounts planned for each project within the ESIF funds, including the 
 
 ### NUTS classification list
 
-**Link:** [NUTS (Nomenclature of Territorial Units for Statistics), by regional level, version 2013](http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_CLS_DLD&StrNom=NUTS_2013L&StrLanguageCode=EN&StrLayoutCode=HIERARCHIC)
+**Link:** [NUTS_2013L](http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_CLS_DLD&StrNom=NUTS_2013L&StrLanguageCode=EN&StrLayoutCode=HIERARCHIC)
 
 Regional classification of the European Union with region names and NUTS codes, for geographical matching with programme titles. Used to produce ERDF_2014-2020_regions_match
+
+**Downloaded on:** 11.04.2019
+
+
