@@ -1,0 +1,292 @@
+﻿MS;NUTS 1;NUTS 2;MS.Name;Region.Name;NUTS.Description;CCI
+BE;BE1;;Belgium;Brussels Capital Region;RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST;2014BE16RFOP001
+BE;BE2;;Belgium;Flanders;VLAAMS GEWEST;2014BE16RFOP002
+BE;BE3;;Belgium;Wallonia;RÉGION WALLONNE;2014BE16RFOP003
+BG;;;Bulgaria;;;2014BG16RFOP001
+CZ;CZ0;CZ01;Czech Republic;Prague;Praha;2014CZ16M2OP001
+HU;;;Hungary;;;2014HU16M2OP001
+DE;DE9;;Germany;Niedersachsen;NIEDERSACHSEN;2014DE16M2OP001
+DE;DE1;;Germany;Baden-Württemberg;BADEN-WÜRTTEMBERG;2014DE16RFOP001
+DE;DE2;;Germany;Bayern;BAYERN;2014DE16RFOP002
+DE;DE3;;Germany;Berlin;BERLIN;2014DE16RFOP003
+DE;DE4;;Germany;Brandenburg;BRANDENBURG;2014DE16RFOP004
+DE;DE5;;Germany;Bremen;BREMEN;2014DE16RFOP005
+DE;DE6;;Germany;Hamburg ;HAMBURG;2014DE16RFOP006
+DE;DE7;;Germany;Hessen ;HESSEN;2014DE16RFOP007
+DE;DE8;;Germany;Mecklenburg-Vorpommern ;MECKLENBURG-VORPOMMERN;2014DE16RFOP008
+DE;DEA;;Germany;Nordrhein-Westfalen;NORDRHEIN-WESTFALEN;2014DE16RFOP009
+DE;DEB;;Germany;Rheinland-Pfalz;RHEINLAND-PFALZ;2014DE16RFOP010
+DE;DEC;;Germany;Saarland ;SAARLAND;2014DE16RFOP011
+DE;DED;;Germany;Sachsen;SACHSEN;2014DE16RFOP012
+DE;DEE;;Germany;Sachsen-Anhalt;SACHSEN-ANHALT;2014DE16RFOP013
+DE;DEF;;Germany;Schleswig-Holstein;SCHLESWIG-HOLSTEIN;2014DE16RFOP014
+DE;DEG;;Germany;Thüringen;THÜRINGEN;2014DE16RFOP015
+FR;FRA;FRA5;France;Mayotte;Mayotte;2014FR16M2OP012
+FR;FR5;FR53;France;Poitou-Charentes;Poitou-Charentes;2014FR16M2OP009
+TC;;;Territorial co-operation;;;2014TC16RFCB015
+FR;;;France;;;2014FR05M2OP001
+FR;;;France;;;2014FR16RFOP004
+FI;FI2;;Finland;Åland;ÅLAND;2014FI05M2OP001
+FR;FR1;FR10;France;Île-de-France et Seine;Île de France;2014FR05M0OP001
+FR;FR6;FR61;France;Aquitaine;Aquitaine;2014FR16M0OP001
+FR;FR7;FR72;France;Auvergne;Auvergne;2014FR16M0OP002
+FR;FR2;FR24;France;Centre;Centre;2014FR16M0OP003
+FR;FR2;FR21;France;Champagne-Ardenne;Champagne-Ardenne;2014FR16M0OP004
+FR;FR2;FR23;France;Haute-Normandie;Haute-Normandie;2014FR16M0OP005
+FR;FR8;FR81;France;Languedoc-Roussillon;Languedoc-Roussillon;2014FR16M0OP006
+FR;FR6;FR62;France;Midi-Pyrénées et Garonne;Midi-Pyrénées;2014FR16M0OP007
+FR;FR2;FR22;France;Picardie;Picardie;2014FR16M0OP008
+FR;FRA;FRA1;France;Guadeloupe;Guadeloupe;2014FR16M0OP009
+FR;FRA;FRA2;France;Martinique;Martinique;2014FR16M0OP011
+FR;FR3;FR30;France;Nord-Pas de Calais;Nord - Pas-de-Calais;2014FR16M0OP012
+FR;FR8;FR82;France;Provence-Alpes-Côte d'Azur;Provence-Alpes-Côte d'Azur;2014FR16M0OP013
+FR;FR2;FR25;France;Basse-Normandie;Basse-Normandie;2014FR16M2OP001
+FR;FR5;FR52;France;Bretagne;Bretagne;2014FR16M2OP003
+FR;FR4;FR43;France;Franche-Comté et Jura;Franche-Comté;2014FR16M2OP005
+FR;FR8;FR83;France;Corse;Corse;2014FR16M2OP004
+FR;FR6;FR63;France;Limousin;Limousin;2014FR16M2OP006
+FR;FR5;FR51;France;Pays de la Loire;Pays de la Loire;2014FR16M2OP008
+FR;FR7;FR71;France;Rhône-Alpes;Rhône-Alpes;2014FR16M2OP010
+FR;FRA;FRA3;France;Guyane;Guyane;2014FR16M2OP011
+FR;;;France;;;2014FR16RFOP001
+FR;;;France;;;2014FR16RFOP002
+FR;;;France;;;2014FR16RFOP003
+FR;;;France;;;2014FR16RFOP005
+FR;FR4;FR42;France;Interregional Alsace;Alsace;2014FR16RFOP006
+FR;FRA;FRA4;France;Réunion;La Réunion;2014FR16RFOP007
+HU;HU1;;Hungary;Central-Hungary ;KÖZÉP-MAGYARORSZÁG;2014HU16M2OP002
+GR;EL4;EL43;Greece;Crete;Κρήτη (Kriti);2014GR16M2OP011
+PL;;;Poland;;;2014PL16RFOP001
+GR;;;Greece;;;2014GR05M2OP001
+BG;;;Bulgaria;;;2014BG05M2OP001
+IT;;;Italy;;;2014IT05M2OP001
+CZ;;;Czech Republic;;;2014CZ05M2OP001
+IE;IE0;IE01;Ireland;Border Midland and Western Regional;Border, Midland and Western;2014IE16RFOP001
+IT;;;Italy;;;2014IT05M2OP002
+TC;;;Territorial co-operation;;;2014TC16RFTN002
+PL;PL4;PL43;Poland;Lubuskie Voivodeship;Lubuskie;2014PL16M2OP004
+TC;;;Territorial co-operation;;;2014TC16RFCB039
+GR;;;Greece;;;2014GR16M3TA001
+HU;;;Hungary;;;2014HU05M2OP001
+LU;LU0;LU00;Luxembourg;Luxembourg;Luxembourg;2014LU16RFOP001
+TC;;;Territorial co-operation;;;2014TC16RFCB051
+TC;;;Territorial co-operation;;;2014TC16M5TN001
+NL;NL1;;Netherlands;North Netherlands;NOORD-NEDERLAND;2014NL16RFOP001
+NL;NL3;;Netherlands;West Netherlands;WEST-NEDERLAND;2014NL16RFOP002
+NL;NL4;;Netherlands;South Netherlands;ZUID-NEDERLAND;2014NL16RFOP003
+NL;NL2;;Netherlands;East Netherlands;OOST-NEDERLAND;2014NL16RFOP004
+PL;PL5;PL51;Poland;Dolnośląskie Voivodeship;Dolnośląskie;2014PL16M2OP001
+PL;PL6;PL61;Poland;Kujawsko-Pomorskie Voivodeship;Kujawsko-pomorskie;2014PL16M2OP002
+PL;PL3;PL31;Poland;Lubelskie Voivodeship;Lubelskie;2014PL16M2OP003
+PL;PL1;PL11;Poland;Łódzkie Voivodeship;Łódzkie;2014PL16M2OP005
+PL;PL2;PL21;Poland;Małolskie Voivodeship;Małopolskie;2014PL16M2OP006
+PL;PL1;PL12;Poland;Mazowieckie Voivodeship;Mazowieckie;2014PL16M2OP007
+PL;PL5;PL52;Poland;Opolskie Voivodeship;Opolskie;2014PL16M2OP008
+PL;PL3;PL32;Poland;Podkarpackie Voivodeship;Podkarpackie;2014PL16M2OP009
+PL;PL3;PL34;Poland;Podlaskie Voivodeship;Podlaskie;2014PL16M2OP010
+PL;PL6;PL63;Poland;Pomorskie Voivodeship;Pomorskie;2014PL16M2OP011
+PL;PL2;PL22;Poland;Śląskie Voivodeship;Śląskie;2014PL16M2OP012
+PL;PL3;PL33;Poland;Świętokrzyskie Voivodeship;Świętokrzyskie;2014PL16M2OP013
+PL;PL6;PL62;Poland;Warmińsko-Mazurskie Voivodeship;Warmińsko-mazurskie;2014PL16M2OP014
+PL;PL4;PL41;Poland;Wielkolskie Voivodeship;Wielkopolskie;2014PL16M2OP015
+PL;PL4;PL42;Poland;Zachodniomorskie Voivodeship;Zachodniopomorskie;2014PL16M2OP016
+PL;;;Poland;;;2014PL16RFOP002
+PL;PL3;;Poland;Eastern Poland;REGION WSCHODNI;2014PL16RFOP003
+TC;;;Territorial co-operation;;;2014TC16RFCB024
+SE;SE2;SE22;Sweden;South Sweden;Sydsverige;2014SE16RFOP001
+SE;SE2;SE21;Sweden;Småland and islands;Småland med öarna;2014SE16RFOP002
+SE;SE2;SE23;Sweden;West Sweden;Västsverige;2014SE16RFOP003
+SE;SE1;SE12;Sweden;East-Central Sweden;Östra Mellansverige;2014SE16RFOP004
+SE;SE1;SE11;Sweden;Stockholm;Stockholm;2014SE16RFOP005
+SE;SE3;SE31;Sweden;North-Central Sweden;Norra Mellansverige;2014SE16RFOP006
+SE;SE3;SE32;Sweden;Central Norrland;Mellersta Norrland;2014SE16RFOP007
+SE;SE3;SE33;Sweden;Upper Norrland;Övre Norrland;2014SE16RFOP008
+SE;;;Sweden;;;2014SE16RFOP009
+SI;;;Slovenia;;;2014SI16MAOP001
+TC;;;Territorial co-operation;;;2014TC16M4TN001
+TC;;;Territorial co-operation;;;2014TC16M4TN002
+TC;;;Territorial co-operation;;;2014TC16M4TN003
+TC;;;Territorial co-operation;;;2014TC16M6TN001
+TC;;;Territorial co-operation;;;2014TC16RFCB001
+TC;;;Territorial co-operation;;;2014TC16RFCB002
+TC;;;Territorial co-operation;;;2014TC16RFCB003
+TC;;;Territorial co-operation;;;2014TC16RFCB004
+TC;;;Territorial co-operation;;;2014TC16RFCB005
+TC;;;Territorial co-operation;;;2014TC16RFCB006
+TC;;;Territorial co-operation;;;2014TC16RFCB007
+TC;;;Territorial co-operation;;;2014TC16RFCB008
+TC;;;Territorial co-operation;;;2014TC16RFCB009
+TC;;;Territorial co-operation;;;2014TC16RFCB010
+TC;;;Territorial co-operation;;;2014TC16RFCB011
+TC;;;Territorial co-operation;;;2014TC16RFCB012
+TC;;;Territorial co-operation;;;2014TC16RFCB013
+TC;;;Territorial co-operation;;;2014TC16RFCB014
+TC;;;Territorial co-operation;;;2014TC16RFCB016
+TC;;;Territorial co-operation;;;2014TC16RFCB017
+TC;;;Territorial co-operation;;;2014TC16RFCB018
+TC;;;Territorial co-operation;;;2014TC16RFCB019
+TC;;;Territorial co-operation;;;2014TC16RFCB020
+TC;;;Territorial co-operation;;;2014TC16RFCB021
+TC;;;Territorial co-operation;;;2014TC16RFCB022
+TC;;;Territorial co-operation;;;2014TC16RFCB023
+TC;;;Territorial co-operation;;;2014TC16RFCB025
+TC;;;Territorial co-operation;;;2014TC16RFCB026
+TC;;;Territorial co-operation;;;2014TC16RFCB027
+TC;;;Territorial co-operation;;;2014TC16RFCB028
+TC;;;Territorial co-operation;;;2014TC16RFCB029
+TC;;;Territorial co-operation;;;2014TC16RFCB030
+TC;;;Territorial co-operation;;;2014TC16RFCB031
+TC;;;Territorial co-operation;;;2014TC16RFCB032
+TC;;;Territorial co-operation;;;2014TC16RFCB033
+TC;;;Territorial co-operation;;;2014TC16RFCB034
+TC;;;Territorial co-operation;;;2014TC16RFCB035
+TC;;;Territorial co-operation;;;2014TC16RFCB036
+TC;;;Territorial co-operation;;;2014TC16RFCB037
+TC;;;Territorial co-operation;;;2014TC16RFCB038
+TC;;;Territorial co-operation;;;2014TC16RFCB040
+TC;;;Territorial co-operation;;;2014TC16RFCB041
+TC;;;Territorial co-operation;;;2014TC16RFCB042
+TC;;;Territorial co-operation;;;2014TC16RFCB043
+TC;;;Territorial co-operation;;;2014TC16RFCB044
+TC;;;Territorial co-operation;;;2014TC16RFCB045
+TC;;;Territorial co-operation;;;2014TC16RFCB046
+TC;;;Territorial co-operation;;;2014TC16RFCB047
+TC;;;Territorial co-operation;;;2014TC16RFCB048
+TC;;;Territorial co-operation;;;2014TC16RFCB049
+TC;;;Territorial co-operation;;;2014TC16RFCB050
+TC;;;Territorial co-operation;;;2014TC16RFCB052
+TC;;;Territorial co-operation;;;2014TC16RFCB053
+TC;;;Territorial co-operation;;;2014TC16RFCB054
+TC;;;Territorial co-operation;;;2014TC16RFCB056
+TC;;;Territorial co-operation;;;2014TC16RFIR001
+TC;;;Territorial co-operation;;;2014TC16RFIR002
+TC;;;Territorial co-operation;;;2014TC16RFIR003
+TC;;;Territorial co-operation;;;2014TC16RFIR004
+TC;;;Territorial co-operation;;;2014TC16RFTN001
+TC;;;Territorial co-operation;;;2014TC16RFTN003
+TC;;;Territorial co-operation;;;2014TC16RFTN004
+TC;;;Territorial co-operation;;;2014TC16RFTN005
+TC;;;Territorial co-operation;;;2014TC16RFTN006
+TC;;;Territorial co-operation;;;2014TC16RFTN007
+TC;;;Territorial co-operation;;;2014TC16RFTN008
+TC;;;Territorial co-operation;;;2014TC16RFTN009
+TC;;;Territorial co-operation;;;2014TC16RFTN010
+UK;;;United Kingdom;;;2014UK16RFOP001
+UK;;;United Kingdom;;;2014UK16RFOP002
+UK;UKN;UKN0;United Kingdom;Northern Ireland;Northern Ireland;2014UK16RFOP003
+UK;UKM;;United Kingdom;Scotland;SCOTLAND;2014UK16RFOP004
+UK;UKL;UKL1;United Kingdom;West Wales and The Valleys;West Wales and The Valleys;2014UK16RFOP005
+UK;UKL;UKL2;United Kingdom;East Wales;East Wales;2014UK16RFOP006
+PT;PT1;PT17;Portugal;Lisboa;Área Metropolitana de Lisboa;2014PT16M2OP005
+PT;PT3;PT30;Portugal;Madeira;Região Autónoma da Madeira;2014PT16M2OP006
+SK;;;Slovakia;;;2014SK05M0OP001
+PT;PT1;PT15;Portugal;Algarve;Algarve;2014PT16M2OP007
+PL;;;Poland;;;2014PL16M1OP001
+GR;EL6;EL65;Greece;Pelonnesus;Πελοπόννησος (Peloponnisos);2014GR16M2OP008
+GR;EL4;EL42;Greece;South Aegean;Νότιο Αιγαίο (Notio Aigaio);2014GR16M2OP013
+ES;ES4;ES43;Spain;Extremadura ;Extremadura;2014ES16RFOP014
+ES;ES7;ES70;Spain;Canarias;Canarias;2014ES16RFOP007
+IT;ITF;ITF4;Italy;Puglia ;Puglia;2014IT16M2OP002
+GR;EL5;EL53;Greece;Western Macedonia;Δυτική Μακεδονία (Dytiki Makedonia);2014GR16M2OP006
+IT;ITF;ITF6;Italy;Calabria ;Calabria;2014IT16M2OP006
+ES;ES6;ES64;Spain;Melilla ;Ciudad Autónoma de Melilla;2014ES16RFOP018
+PT;PT2;PT20;Portugal;Azores;Região Autónoma dos Açores;2014PT16M2OP004
+IT;ITF;ITF3;Italy;Campania;Campania;2014IT16RFOP007
+GR;EL4;EL41;Greece;North Aegean;Βόρειο Αιγαίο (Voreio Aigaio);2014GR16M2OP010
+PT;PT1;PT11;Portugal;Norte;Norte;2014PT16M2OP001
+ES;ES2;ES23;Spain;La Rioja ;La Rioja;2014ES16RFOP016
+IT;ITF;ITF2;Italy;Molise ;Molise;2014IT16M2OP001
+GR;EL5;EL52;Greece;Central Macedonia;Κεντρική Μακεδονία (Kentriki Makedonia);2014GR16M2OP002
+ES;ES1;ES13;Spain;Cantabria ;Cantabria;2014ES16RFOP008
+IT;ITF;ITF5;Italy;Basilicata;Basilicata;2014IT16RFOP022
+IT;ITI;ITI1;Italy;Toscana;Toscana;2014IT16RFOP017
+IT;ITG;ITG2;Italy;Sardegna;Sardegna;2014IT16RFOP015
+IT;ITF;ITF1;Italy;Abruzzo;Abruzzo;2014IT16RFOP004
+IT;ITI;ITI4;Italy;Lazio;Lazio;2014IT16RFOP010
+IT;ITC;ITC4;Italy;Lombardia;Lombardia;2014IT16RFOP012
+IT;ITC;ITC1;Italy;Piemonte;Piemonte;2014IT16RFOP014
+GR;EL5;EL54;Greece;Epirus;Ήπειρος (Ipeiros);2014GR16M2OP004
+GR;EL6;EL61;Greece;Thessaly;Θεσσαλία (Thessalia);2014GR16M2OP003
+ES;ES1;ES11;Spain;Galicia ;Galicia;2014ES16RFOP015
+IT;ITH;ITH2;Italy;Trento;Provincia Autonoma di Trento;2014IT16RFOP018
+IT;ITH;ITH3;Italy;Veneto;Veneto;2014IT16RFOP021
+ES;ES6;ES62;Spain;Murcia ;Región de Murcia;2014ES16RFOP019
+IT;ITI;ITI3;Italy;Marche;Marche;2014IT16RFOP013
+ES;ES5;ES52;Spain;Valenciana;Comunidad Valenciana;2014ES16RFOP013
+ES;ES5;ES53;Spain;Baleares ;Illes Balears;2014ES16RFOP006
+TC;;;Territorial co-operation;;;2014TC16RFCB055
+ES;ES4;ES42;Spain;Castilla-La Mancha ;Castilla-La Mancha;2014ES16RFOP010
+ES;ES2;ES24;Spain;Aragón ;Aragón;2014ES16RFOP004
+IT;ITC;ITC2;Italy;Valle d'Aosta;Valle d'Aosta/Vallée d'Aoste;2014IT16RFOP020
+ES;ES6;ES63;Spain;Ceuta ;Ciudad Autónoma de Ceuta;2014ES16RFOP012
+ES;ES6;ES61;Spain;Andalucía ;Andalucía;2014ES16RFOP003
+IT;ITH;ITH4;Italy;Friuli-Venezia Giulia;Friuli-Venezia Giulia;2014IT16RFOP009
+ES;ES5;ES51;Spain;Cataluña ;Cataluña;2014ES16RFOP011
+IT;ITH;ITH5;Italy;Emilia-Romagna;Emilia-Romagna;2014IT16RFOP008
+ES;ES2;ES22;Spain;Navarra ;Comunidad Foral de Navarra;2014ES16RFOP020
+IT;;;Italy;;;2014IT16M2OP004
+PT;PT1;PT18;Portugal;Alentejo;Alentejo;2014PT16M2OP003
+IT;ITG;ITG1;Italy;Sicilia;Sicilia;2014IT16RFOP016
+ES;ES2;ES21;Spain;País Vasco ;País Vasco;2014ES16RFOP021
+GR;EL3;EL30;Greece;Attica;Aττική (Attiki);2014GR16M2OP012
+GR;EL6;EL62;Greece;Ionian Islands;Ιόνια Νησιά (Ionia Nisia);2014GR16M2OP009
+IT;ITC;ITC3;Italy;Liguria;Liguria;2014IT16RFOP011
+GR;EL6;EL63;Greece;Western Greece;Δυτική Ελλάδα (Dytiki Ellada);2014GR16M2OP005
+ES;ES3;ES30;Spain;Madrid ;Comunidad de Madrid;2014ES16RFOP017
+IT;ITH;ITH1;Italy;Bolzano;Provincia Autonoma di Bolzano/Bozen;2014IT16RFOP005
+IT;ITI;ITI2;Italy;Umbria;Umbria;2014IT16RFOP019
+GR;EL5;EL51;Greece;Eastern Macedonia-Thrace;Aνατολική Μακεδονία, Θράκη (Anatoliki Makedonia, Thraki);2014GR16M2OP014
+ES;ES1;ES12;Spain;Asturias ;Principado de Asturias;2014ES16RFOP005
+PT;;;Portugal;;;2014PT16RFTA001
+PT;PT1;PT16;Portugal;Centro;Centro (PT);2014PT16M2OP002
+ES;ES4;ES41;Spain;Castilla y León ;Castilla y León;2014ES16RFOP009
+GR;EL6;EL64;Greece;Continental Greece;Στερεά Ελλάδα (Sterea Ellada);2014GR16M2OP007
+GR;;;Greece;;;2014GR16M1OP001
+BG;;;Bulgaria;;;2014BG16RFOP002
+TC;;;Territorial co-operation;;;2014TC16RFPC001
+FI;;;Finland;;;2014FI16M2OP001
+CZ;;;Czech Republic;;;2014CZ16RFOP002
+GR;;;Greece;;;2014GR16M2OP001
+HU;;;Hungary;;;2014HU16M1OP001
+IE;IE0;IE02;Ireland;Southern & Eastern Ireland;Southern and Eastern;2014IE16RFOP002
+RO;;;Romania;;;2014RO16M1OP001
+HU;;;Hungary;;;2014HU16M1OP003
+CY;;;Cyprus;;;2014CY16M1OP001
+SK;;;Slovakia;;;2014SK16M1OP001
+SK;;;Slovakia;;;2014SK16RFOP001
+RO;;;Romania;;;2014RO16RFTA001
+DK;;;Denmark;;;2014DK16RFOP001
+FR;;;France;;;2014FR16M2TA001
+SK;;;Slovakia;;;2014SK16RFOP002
+HR;;;Croatia;;;2014HR16M1OP001
+SK;;;Slovakia;;;2014SK16RFTA001
+SE;;;Sweden;;;2014SE16M2OP001
+RO;;;Romania;;;2015RO16RFSM001
+IT;;;Italy;;;2014IT16M2OP003
+EE;;;Estonia;;;2014EE16M3OP001
+IT;;;Italy;;;2014IT16RFOP003
+IT;;;Italy;;;2014IT16M2OP005
+ES;;;Spain;;;2014ES16RFSM001
+CZ;;;Czech Republic;;;2014CZ16M1OP002
+ES;;;Spain;;;2014ES16RFOP002
+MT;;;Malta;;;2014MT16RFSM001
+BG;;;Bulgaria;;;2015BG16RFSM001
+CZ;;;Czech Republic;;;2014CZ16RFOP001
+LV;;;Latvia;;;2014LV16MAOP001
+AT;;;Austria;;;2014AT16RFOP001
+PT;;;Portugal;;;2014PT16M3OP001
+RO;;;Romania;;;2014RO16RFOP002
+SK;;;Slovakia;;;2014SK16M1OP002
+IT;;;Italy;;;2015IT16RFSM001
+FR;;;France;;;2014FR16M0OP014
+FR;;;France;;;2014FR16M0OP015
+IT;;;Italy;;;2014IT16RFOP001
+HU;;;Hungary;;;2014HU16M0OP001
+RO;;;Romania;;;2014RO16RFOP001
+FI;;;Finland;;;2016FI16RFSM001
+BG;;;Bulgaria;;;2014BG16M1OP001
+MT;;;Malta;;;2014MT16M1OP001
+IT;;;Italy;;;2014IT16RFOP002
+LT;;;Lithuania;;;2014LT16MAOP001
+BG;;;Bulgaria;;;2014BG16M1OP002
+CZ;;;Czech Republic;;;2014CZ16M1OP001
